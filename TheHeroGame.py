@@ -1,4 +1,4 @@
-
+#ceva
 import random
 
 class Character(object):
